@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning DevOps tools.
+- 🌱 I’m currently learning DevOps related tools.
 - ⚡ Fun fact: I love coding and hate dogs.
 
 [![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskan399&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
